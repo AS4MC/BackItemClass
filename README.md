@@ -41,11 +41,11 @@
 
 ## 📦 Téléchargements
 
-🔽 **Dernière version compilée (.jar)**  
-[👉 Télécharger WonderQuestBackItemClass 1.0](https://github.com/votre-utilisateur/votre-repo/releases/latest/download/backitemclass-1.0.jar)
+🔽 **Dernière version (.jar)**  
+[👉 Télécharger BackItemClass 1.0](https://github.com/votre-utilisateur/votre-repo/releases/latest/download/backitemclass-1.0.jar)
 
 📁 **Télécharger le projet complet (sources)**  
-[👉 Télécharger les sources](https://github.com/votre-utilisateur/votre-repo/archive/refs/heads/main.zip)
+[👉 Télécharger le projet complet](https://github.com/votre-utilisateur/votre-repo/archive/refs/heads/main.zip)
 
 ---
 
@@ -54,7 +54,7 @@
 1️⃣ Placez le fichier `.jar` dans votre dossier :
 /plugins/
 
-yaml
+
 Copier
 Modifier
 
@@ -69,25 +69,25 @@ Si vous souhaitez compiler vous-même le plugin :
 ### 📁 Étapes principales
 
 1️⃣ Clonez le projet :
-```bash
+
 git clone https://github.com/votre-utilisateur/votre-repo.git
 2️⃣ Ouvrez le projet avec IntelliJ IDEA.
 
 3️⃣ Ouvrez le panneau Maven :
 
-sql
+
 Copier
 Modifier
 View > Tool Windows > Maven
 4️⃣ Dans Lifecycle, double-cliquez :
 
-go
+
 Copier
 Modifier
 package
 ✅ Le .jar sera généré dans :
 
-bash
+
 Copier
 Modifier
 target/backitemclass-1.0.jar
