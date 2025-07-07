@@ -1,0 +1,4 @@
+name: WonderQuestBackItemClass
+version: 1.0
+main: fr.wonderquest.backitem.BackItemPlugin
+api-version: 1.20
